@@ -1,2 +1,3 @@
 rootProject.name = 'oauth2'
+include 'serverside'
 
