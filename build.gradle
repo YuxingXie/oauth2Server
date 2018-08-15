@@ -65,7 +65,7 @@ dependencies {
     compile group: 'commons-codec', name: 'commons-codec', version: '1.4'
     compile("org.springframework.boot:spring-boot-starter-actuator")
     compile("org.springframework.security.oauth:spring-security-oauth2")
-    compile("org.springframework.security.oauth:spring-boot-starter-security")
+    compile("org.springframework.boot:spring-boot-starter-security")
     testCompile("org.springframework.boot:spring-boot-starter-test")
 
 }
